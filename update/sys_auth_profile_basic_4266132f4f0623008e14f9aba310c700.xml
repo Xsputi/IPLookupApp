@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>IPInfo</name>
+        <password>qKIsCprLYrI3gf0XW7TJrA==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-04 17:17:39</sys_created_on>
+        <sys_id>4266132f4f0623008e14f9aba310c700</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPInfo</sys_name>
+        <sys_package display_value="IPLookup" source="x_222693_iplookup">9ddbe9634f0223008e14f9aba310c7b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">9ddbe9634f0223008e14f9aba310c7b3</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_4266132f4f0623008e14f9aba310c700</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-04 17:17:39</sys_updated_on>
+        <username>christian@ruppnig.com</username>
+    </sys_auth_profile_basic>
+</record_update>
